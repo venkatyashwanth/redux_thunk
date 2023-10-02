@@ -1,0 +1,18 @@
+.navigation-bar{
+    height: 5rem;
+    text-align: center;
+    background-color: gray;
+    margin-bottom: 4rem;
+    ul{
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        li{
+            a{
+                text-decoration: none;
+                font-size: 1.4rem;
+                color: black;
+            }
+        }
+    }
+}
